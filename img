@@ -1,0 +1,4 @@
+git add Untitled2.png
+git commit -m 'add png file'
+git remote add origin https://cloud.githubusercontent.com/assets/9824039/5090642/1bd2cb02-6f76-11e4-9808-12d2d33d2a9b.png
+git push -u origin master
